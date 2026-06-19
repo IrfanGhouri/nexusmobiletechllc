@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="About Nexus Mobile Tech"
       description="Learn about our mission, our technicians, and how we deliver industry-leading repairs and premium certified pre-owned devices daily."
-      imageSrc="/images/about_tech.png"
+      imageSrc="/images/about-us.webp"
       content={content}
       bulletPoints={bulletPoints}
       breadcrumbCategory="Company"

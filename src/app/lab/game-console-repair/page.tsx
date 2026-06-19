@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="Game Console Repair"
       description="Professional repairs for PS5, Xbox Series X/S, Nintendo Switch, and retro consoles. HDMI ports, overheating fixes, and optical drives repaired fast."
-      imageSrc="/images/console_repair.png"
+      imageSrc="/images/console_repair.webp"
       content={content}
       bulletPoints={bulletPoints}
     />

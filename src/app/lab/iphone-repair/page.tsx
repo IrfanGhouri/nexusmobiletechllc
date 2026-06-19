@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="iPhone Repair Services"
       description="Fast, premium, and reliable iPhone repairs backed by warranty. Cracked screens, battery issues, and charging ports resolved in under 45 minutes."
-      imageSrc="/images/iphone_repair.png"
+      imageSrc="/images/iphone_repair.webp"
       content={content}
       bulletPoints={bulletPoints}
     />

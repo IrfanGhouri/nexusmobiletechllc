@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="Buy & Sell Used iPhones"
       description="Upgrade your phone for less. Premium, certified pre-owned iPhones unlocked and tested to factory perfection. Get instant cash for your trade-ins."
-      imageSrc="/images/used_iphones.png"
+      imageSrc="/images/used_iphones.webp"
       content={content}
       bulletPoints={bulletPoints}
       breadcrumbCategory="Shop"

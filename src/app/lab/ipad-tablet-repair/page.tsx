@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="iPad & Tablet Repair"
       description="Professional iPad and Android tablet repairs. We fix cracked digitizers, bleeding LCDs, charging ports, and dead batteries with expert precision."
-      imageSrc="/images/ipad_repair.png"
+      imageSrc="/images/ipad_repair.jpg"
       content={content}
       bulletPoints={bulletPoints}
     />

@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="Buy & Sell Used Laptops"
       description="Save big on premium laptops. Certified pre-owned MacBooks and Windows PCs, fully serviced and backed by our store warranty. Trade in for cash."
-      imageSrc="/images/used_laptops.png"
+      imageSrc="/images/used_laptops.webp"
       content={content}
       bulletPoints={bulletPoints}
       breadcrumbCategory="Shop"

@@ -26,7 +26,7 @@ export default function Page() {
     <LabTemplate
       title="Laptop & Desktop Repair"
       description="Complete hardware and software services for Mac and PC. Screen replacements, keyboard repairs, SSD upgrades, and logic board servicing."
-      imageSrc="/images/laptop_repair.png"
+      imageSrc="/images/laptop_repair.webp"
       content={content}
       bulletPoints={bulletPoints}
     />
