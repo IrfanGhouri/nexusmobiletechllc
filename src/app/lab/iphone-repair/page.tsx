@@ -9,7 +9,7 @@ export default function Page() {
       We use only premium-grade, industry-standard replacement parts to ensure that your device functions exactly like it did when you first took it out of the box. Whether you are dealing with a cracked OLED screen, a battery that drains too fast, a faulty charging port, water damage, or audio issues like a blown speaker or non-responsive microphone, we have the specialized microsoldering tools and diagnostics equipment to fix it right the first time.
     </p>
     <p>
-      Every repair performed in our lab is backed by a comprehensive warranty to give you peace of mind. We stand behind our workmanship and our parts because our ultimate goal is your complete satisfaction. Plus, there is no appointment necessary! You can simply walk into any of our convenient locations in Cincinnati, OH, or Des Plaines, IL, and get your iPhone evaluated and fixed by the leading repair professionals in the industry.
+      Every repair performed in our lab is backed by a comprehensive warranty to give you peace of mind. We stand behind our workmanship and our parts because our ultimate goal is your complete satisfaction. Plus, there is no appointment necessary! You can simply walk into any of our convenient locations in Cincinnati, OH, and get your iPhone evaluated and fixed by the leading repair professionals in the industry.
     </p>
   `;
 

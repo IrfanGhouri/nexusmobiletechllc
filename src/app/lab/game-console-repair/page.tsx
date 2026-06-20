@@ -9,7 +9,7 @@ export default function Page() {
       Common console issues include HDMI port damage (which results in a blank screen), clogged cooling systems causing thermal shutdowns, laser lens failure in disc drives, and software corruption. Our laboratory features specialized micro-soldering gear to replace HDMI ports, repair power supplies, and solve board-level component issues. We also offer internal dust cleaning and thermal paste replacement.
     </p>
     <p>
-      We use top-grade replacement parts, from HDMI ports to optical drives and cooling fans, ensuring your console runs cool and quiet. We test each console rigorously with actual games to ensure that HDMI signal, controller sync, disc reading, and cooling systems work perfectly. Bring your console to our Cincinnati or Des Plaines workshop and get back to gaming!
+      We use top-grade replacement parts, from HDMI ports to optical drives and cooling fans, ensuring your console runs cool and quiet. We test each console rigorously with actual games to ensure that HDMI signal, controller sync, disc reading, and cooling systems work perfectly. Bring your console to our Cincinnati workshops and get back to gaming!
     </p>
   `;
 

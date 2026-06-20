@@ -152,11 +152,19 @@ export default function ContactPage() {
                   </p>
                 </div>
                 <div className="bg-slate-50 p-5 rounded-lg border border-slate-200">
-                  <h4 className="text-sm font-bold text-slate-900 mb-2 font-display">Our Address</h4>
-                  <p className="text-xs text-slate-600 space-y-1 leading-relaxed">
-                    <span>5720 Winton Rd Apt 407</span>
-                    <span className="block mt-1">Cincinnati, OH 45232</span>
-                  </p>
+                  <h4 className="text-sm font-bold text-slate-900 mb-2 font-display">Our Addresses</h4>
+                  <div className="text-xs text-slate-600 space-y-2 leading-relaxed">
+                    <div>
+                      <span className="font-semibold block text-slate-800 text-[11px]">Location 1:</span>
+                      <span>5720 Winton Rd # 407</span>
+                      <span className="block text-[11px] text-slate-500">Cincinnati, OH 45232</span>
+                    </div>
+                    <div>
+                      <span className="font-semibold block text-slate-800 text-[11px]">Location 2:</span>
+                      <span>5301 Glenway Ave</span>
+                      <span className="block text-[11px] text-slate-500">Cincinnati, OH 45238</span>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>

@@ -9,7 +9,7 @@ export default function Page() {
       We stock a wide variety of models, from the recent iPhone 13 and 14 series up to the premium iPhone 15 Pro and 16 Pro Max. Our devices are unlocked and ready to activate on any carrier of your choice. To give you ultimate confidence in your purchase, we back every phone we sell with a standard Nexus Mobile Tech hardware warranty and a worry-free testing period.
     </p>
     <p>
-      Have an old phone you'd like to trade in? We also buy used iPhones for cash on the spot! We offer top market rates based on your phone's condition, model, and storage capacity. Whether you want to buy a pristine-grade replacement or cash out your old device, visit our physical stores in Cincinnati, OH, or Des Plaines, IL. Let's upgrade your mobile experience today!
+      Have an old phone you'd like to trade in? We also buy used iPhones for cash on the spot! We offer top market rates based on your phone's condition, model, and storage capacity. Whether you want to buy a pristine-grade replacement or cash out your old device, visit our physical stores in Cincinnati, OH. Let's upgrade your mobile experience today!
     </p>
   `;
 

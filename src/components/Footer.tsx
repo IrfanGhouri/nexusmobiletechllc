@@ -102,9 +102,20 @@ export default function Footer() {
                 <div className="flex items-start gap-2.5">
                   <MapPin className="w-4 h-4 text-secondary shrink-0 mt-1" />
                   <div className="text-slate-700">
+                    <p className="font-semibold text-slate-900 text-xs">Location 1</p>
                     <p className="text-xs leading-relaxed">
-                      5720 Winton Rd Apt 407<br />
+                      5720 Winton Rd # 407<br />
                       Cincinnati, OH 45232
+                    </p>
+                  </div>
+                </div>
+                <div className="flex items-start gap-2.5">
+                  <MapPin className="w-4 h-4 text-secondary shrink-0 mt-1" />
+                  <div className="text-slate-700">
+                    <p className="font-semibold text-slate-900 text-xs">Location 2</p>
+                    <p className="text-xs leading-relaxed">
+                      5301 Glenway Ave<br />
+                      Cincinnati, OH 45238
                     </p>
                   </div>
                 </div>

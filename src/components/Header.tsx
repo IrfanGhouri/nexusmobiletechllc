@@ -25,21 +25,19 @@ export default function Header() {
 
   return (
     <>
-      {/* Top Bar */}
-      <div className="w-full bg-slate-100 border-b border-slate-200 py-2.5 text-center text-xs font-semibold text-slate-600 tracking-wide">
-        Powered by Mr iPhone Repair
-      </div>
-
       {/* Static Header */}
       <header className="w-full bg-white border-b border-slate-200 py-4 relative z-40">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between">
             {/* Logo */}
-            <Link href="/" className="flex items-center gap-2 group">
+            <Link href="/" className="flex flex-col group leading-none">
               <span className="text-2xl font-extrabold tracking-tight text-slate-900 flex items-center">
                 Nexus <span className="text-primary ml-1.5 font-black">Mobile</span>
                 <span className="text-secondary font-black">Tech</span>
                 <span className="text-xs text-slate-500 font-bold self-end ml-1 mb-1">LLC</span>
+              </span>
+              <span className="text-[10px] text-slate-400 font-medium text-right mt-1.5">
+                powered by <span className="font-semibold text-slate-500">Mr iPhone Repair</span>
               </span>
             </Link>
 
@@ -143,9 +141,14 @@ export default function Header() {
         }`}
       >
         <div className="flex items-center justify-between mb-8">
-          <span className="text-xl font-bold text-slate-900">
-            Nexus <span className="text-primary font-black">Mobile</span> Tech
-          </span>
+          <div className="flex flex-col gap-0.5">
+            <span className="text-xl font-bold text-slate-900 leading-none">
+              Nexus <span className="text-primary font-black">Mobile</span> Tech
+            </span>
+            <span className="text-[9px] text-slate-400 font-medium leading-none mt-1">
+              powered by <span className="font-semibold text-slate-500">Mr iPhone Repair</span>
+            </span>
+          </div>
           <button
             onClick={() => setIsOpen(false)}
             className="p-2 text-slate-500 hover:text-slate-900 rounded-lg bg-slate-100"

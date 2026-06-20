@@ -9,7 +9,7 @@ export default function Page() {
       Tablet repairs require specialized skills due to their compact internal layout and the extensive use of adhesives. Our laboratory is equipped with precision heat plates, suction tools, and laser machines to safely open your tablet, repair the internal components, and reseal it to factory-grade standards. We replace cracked glass digitisers, LCD/OLED display panels, swollen batteries, and broken charging ports.
     </p>
     <p>
-      We source only high-quality, durable replacement parts that restore the vibrant display and sensitive touch response of your device. Every tablet repair is carefully tested for touch accuracy, battery health, and general performance before being returned to you. Drop by our labs in Cincinnati, OH, or Des Plaines, IL, and let our tech experts return your tablet to peak operating condition.
+      We source only high-quality, durable replacement parts that restore the vibrant display and sensitive touch response of your device. Every tablet repair is carefully tested for touch accuracy, battery health, and general performance before being returned to you. Drop by our labs in Cincinnati, OH, and let our tech experts return your tablet to peak operating condition.
     </p>
   `;
 

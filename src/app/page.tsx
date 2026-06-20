@@ -76,7 +76,7 @@ export default function Home() {
     {
       text: "I bought a refurbished MacBook Air here for college. The laptop is in pristine condition, battery life is outstanding, and it was hundreds of dollars cheaper than retail!",
       author: "Sarah L.",
-      location: "Des Plaines, IL",
+      location: "Cincinnati, OH",
     },
     {
       text: "My PS5 stopped outputting video. They diagnosed a broken HDMI port, replaced it within an hour, and even cleaned out the dust. Great rates.",
@@ -161,7 +161,7 @@ export default function Home() {
                   Professional Repair Technicians
                 </h2>
                 <p className="text-slate-655 text-sm sm:text-base leading-relaxed">
-                  Nexus Mobile Tech is a premier electronic repair shop with diagnostic laboratories in Cincinnati, OH, and Des Plaines, IL. Our mission is simple: deliver high-quality, transparent, and ultra-fast hardware repairs to get you back online.
+                  Nexus Mobile Tech is a premier electronic repair shop with diagnostic laboratories in Cincinnati, OH. Our mission is simple: deliver high-quality, transparent, and ultra-fast hardware repairs to get you back online.
                 </p>
                 <p className="text-slate-655 text-sm sm:text-base leading-relaxed">
                   We utilize premium diagnostic gear, precision heat plates, and advanced micro-soldering tooling to resolve device issues. From basic screen swaps to complex board-level problems, our technicians handle it all.
@@ -405,7 +405,7 @@ export default function Home() {
                     No Appointment Needed
                   </h3>
                   <p className="text-slate-550 text-xs leading-relaxed">
-                    Simply walk in to either of our service locations in Cincinnati, OH, or Des Plaines, IL. Our diagnostic workbench runs walk-in evaluations daily.
+                    Simply walk in to either of our service locations in Cincinnati, OH. Our diagnostic workbench runs walk-in evaluations daily.
                   </p>
                 </div>
                 <span className="text-slate-400 text-xs font-semibold">Walk-in ready</span>

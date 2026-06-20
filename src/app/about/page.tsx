@@ -3,7 +3,7 @@ import LabTemplate from "@/components/LabTemplate";
 export default function Page() {
   const content = `
     <p>
-      Founded with a vision to deliver premium, reliable, and swift electronic repairs, Nexus Mobile Tech has grown to become a trusted name in the industry. Operating with state-of-the-art labs, our laboratory workshops in Cincinnati, OH, and Des Plaines, IL, are staffed by certified technicians who share a passion for engineering excellence and outstanding customer service.
+      Founded with a vision to deliver premium, reliable, and swift electronic repairs, Nexus Mobile Tech has grown to become a trusted name in the industry. Operating with state-of-the-art labs, our laboratory workshops in Cincinnati, OH, are staffed by certified technicians who share a passion for engineering excellence and outstanding customer service.
     </p>
     <p>
       We specialize in providing same-day repairs for smartphones, tablets, computers, and gaming systems, focusing on restoring them to original factory performance levels. Over the years, we have repaired thousands of screens, revived water-damaged motherboards, upgraded slow computers, and rescued critical data. We believe in transparency, which is why we offer free diagnostics and back every repair with an industry-leading warranty.
